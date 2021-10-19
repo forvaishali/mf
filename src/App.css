@@ -1,0 +1,37 @@
+.navbar {
+    overflow: hidden;
+    position: absolute;;
+    top: 0;
+    width: 100%;
+    align-content:flex-end;
+    align-items: flex-end;
+    justify-content: right
+  }
+  
+  .navbar a {
+    float: right;
+    display: block;
+    color: #00008B;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .navbar a:hover {
+    background: #ddd;
+    color: black;
+  }
+  
+  .main {
+    padding: 16px;
+    margin-top: 30px;
+    height: 1500px; /* Used in this example to enable scrolling */
+  }
+
+  .logo{
+    background-color:#f4c430;
+    width: 380px;
+    height: 80px;
+    z-index: 1000;
+  }

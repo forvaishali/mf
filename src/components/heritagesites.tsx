@@ -1,6 +1,5 @@
 import React from "react";
-
-const heritagesitesCollection = () =>{
+ const Heritagesites = () =>{
     return(
 <div>
     <ul>
@@ -11,8 +10,10 @@ const heritagesitesCollection = () =>{
         <li></li>
         <li></li>
         <li></li>
-        <li></li>
+        <li>testing</li>
         </ul>
     </div>
     );
 }
+
+export default Heritagesites;

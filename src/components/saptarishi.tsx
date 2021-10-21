@@ -1,5 +1,5 @@
 import React from 'react';
 
-const saptarishi = () => <div>Saptarishi - Seven Great Sages</div>;
+const Saptarishi = () => <div>Saptarishi - Seven Great Sages</div>;
 
-export default saptarishi;
+export default Saptarishi;

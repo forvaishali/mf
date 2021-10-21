@@ -1,11 +1,16 @@
+body
+{
+  background-image: url("Images/mainbackground.png")
+}
 .navbar {
     overflow: hidden;
     position: absolute;;
     top: 0;
     width: 100%;
-    align-content:flex-end;
-    align-items: flex-end;
-    justify-content: right
+    align-content:flex-start;
+    align-items: flex-start;
+    justify-content: right;
+    background-color:lightcoral;
   }
   
   .navbar a {

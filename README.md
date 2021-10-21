@@ -49,3 +49,5 @@ google fonts -catamoron
 npm i styled-components @types/styled-components
 https://reactgo.com/react-images/
 https://reactrouter.com/web/example/basic
+
+to deploy to production server: npm run deploy

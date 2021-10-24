@@ -40,3 +40,16 @@ body
     height: 80px;
     z-index: 1000;
   }
+  .stotra{
+    height: 360px;
+    width: 760px;
+    text-align: center;
+  }
+  .saptarishi{
+    height:360px;
+  }
+  .mf-mainDiv{
+    align-items:center;
+    align-content:center;
+    margin-left:100px;
+  }

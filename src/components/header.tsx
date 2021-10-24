@@ -11,7 +11,8 @@ import ZeroWaste from "../../src/components/zerowaste";
 import { Link,
          BrowserRouter as Router,
          Switch,
-         Route } from 'react-router-dom';
+         Route
+        } from 'react-router-dom';
 const Header = () => {
   return (
     <Router>
@@ -28,6 +29,7 @@ const Header = () => {
   
   <Switch>
           <Route exact path="/">
+          <Home/>
           </Route>
           <Route path="/heritagesites">
             <Heritagesites />

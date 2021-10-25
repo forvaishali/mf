@@ -53,3 +53,17 @@ body
     align-content:center;
     margin-left:100px;
   }
+  .fcontainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: center ;
+  flex-wrap: wrap; 
+  }
+  .fitem{
+    width:400px;
+    border-radius: 1em;
+    background-color:#0041C2;
+    color:yellowgreen;
+   margin:10px;
+   padding:10px;
+  }

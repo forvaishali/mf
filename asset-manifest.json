@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/mf/static/css/main.12b06913.chunk.css",
-    "main.js": "/mf/static/js/main.efcb2065.chunk.js",
-    "main.js.map": "/mf/static/js/main.efcb2065.chunk.js.map",
+    "main.css": "/mf/static/css/main.124459f1.chunk.css",
+    "main.js": "/mf/static/js/main.5143bf19.chunk.js",
+    "main.js.map": "/mf/static/js/main.5143bf19.chunk.js.map",
     "runtime-main.js": "/mf/static/js/runtime-main.b56045dd.js",
     "runtime-main.js.map": "/mf/static/js/runtime-main.b56045dd.js.map",
     "static/js/2.591e2861.chunk.js": "/mf/static/js/2.591e2861.chunk.js",
     "static/js/2.591e2861.chunk.js.map": "/mf/static/js/2.591e2861.chunk.js.map",
     "index.html": "/mf/index.html",
-    "static/css/main.12b06913.chunk.css.map": "/mf/static/css/main.12b06913.chunk.css.map",
+    "static/css/main.124459f1.chunk.css.map": "/mf/static/css/main.124459f1.chunk.css.map",
     "static/js/2.591e2861.chunk.js.LICENSE.txt": "/mf/static/js/2.591e2861.chunk.js.LICENSE.txt",
     "static/media/App.css": "/mf/static/media/mainbackground.39fdff73.png",
     "static/media/saffronlogo.c5b2f670.jpg": "/mf/static/media/saffronlogo.c5b2f670.jpg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.b56045dd.js",
     "static/js/2.591e2861.chunk.js",
-    "static/css/main.12b06913.chunk.css",
-    "static/js/main.efcb2065.chunk.js"
+    "static/css/main.124459f1.chunk.css",
+    "static/js/main.5143bf19.chunk.js"
   ]
 }
